@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ntg.html",
+    "currentPage": "ste.html",
     "versionFirst": "3.5.1",
     "versionPublish": "3.10",
     "name": "Test Equipment",
@@ -1568,9 +1568,9 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "<br>Reuseable coverall<br><br><span style=\"font-weight: normal;\">Why get wet and cold this one piece suit will stop those foward and backwards nozzles getting you wet! These suits are n.ot cheap rubish they are made to last</span>",
+          "title2": "<br>Reuseable coverall<br><br>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "",
+          "caption2": "test",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
