@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ste.html",
+    "currentPage": "home.html",
     "versionFirst": "3.5.1",
     "versionPublish": "3.10",
     "name": "Test Equipment",
@@ -113,7 +113,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/testgauge-600x399-5.png",
+              "src": "@PROJECT_PATH@/assets/images/cut1-600x337-69-600x337-6.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
