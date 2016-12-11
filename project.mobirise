@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "ste.html",
     "versionFirst": "3.5.1",
     "versionPublish": "3.10",
     "name": "Test Equipment",
@@ -25,7 +25,7 @@
     "scrollAnimation": "true",
     "favicon": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "uniqCompNum": 2,
+    "uniqCompNum": 4,
     "path": "@PROJECT_PATH@",
     "noImageResize": "",
     "google-analytics": "",
@@ -1552,7 +1552,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "<br>Boom tool and sprares box",
+          "title1": "<span style=\"color: inherit; line-height: 1.2825; text-align: center;\">Boom tool and sprares box</span><br>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "This open tool tray is made from soft flexable plastic with a rubbery feel.<br>It is indeal to carry spare boddies, antidrip diaphragms, Boom test gauge along with &nbsp;other tools used for the test.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1568,9 +1568,9 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "<br>Reuseable coverall<br><br>",
+          "title2": "<br>Reuseable coverall<br>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "test",
+          "caption2": "This light weight one peice suit is washable and can be used again and again. This is great when testing foward and backwards nozzles, as found on many arable sprayers.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -1586,7 +1586,7 @@
           },
           "title3": "<br>Marker pen",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Permanent oil based marker<br>Great for labelling taps and controls",
+          "caption3": "Permanent oil based marker<br>Great for labelling taps and controls<br>Being oil based it with write on any clean dry surface. Steel, Plastic even fibreglass",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -1600,9 +1600,9 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "<br>Breathing resporator",
+          "title4": "<br>Breathing resporator<br>",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "",
+          "caption4": "Half mask for use if you have to enter the tank to replace a pipe of seal. Not suitable for fibreglass, please contact us for details on this type of repair.&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -1684,7 +1684,7 @@
           },
           "title2": "Nitrile gloves",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Tough nitrile gloves .",
+          "caption2": "Tough nitrile gloves .<br>Essential kit when working on pumps&nbsp;<br>or other repairs&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -1700,7 +1700,7 @@
           },
           "title3": "Plastic 2 litre cylinder",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "High quality cylinder used for testing nozzle outputs&nbsp;",
+          "caption3": "High quality cylinder used for testing nozzle outputs. This cylinder fetures embossed graduations, unlike cheaper one that are printed. &nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -1716,7 +1716,7 @@
           },
           "title4": "Sticker kits",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "We offer a range of pre printed sticker.",
+          "caption4": "We offer a range of pre printed sticker.<br>A large A2 sheet of popular markings as found on controls hoppers and taps.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -1748,7 +1748,7 @@
           "_anchor": "features3-2",
           "_params": {
             "paddingTop": 2,
-            "paddingBottom": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1761,7 +1761,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "2",
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -1780,9 +1780,9 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Basic easy it use stop watches",
+          "title1": "<br><br><br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Basic easy it use stopwatches</span><br>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Simple stopwatch, So simple even a child could use it!<br>These stong and simple watches are used in school due to there simplicity.<br>None of the usual split lap, date or other \"crap\" just&nbsp;<br>Stop &nbsp; Clear &nbsp; Go<br>Ideal for cold hards",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -1796,21 +1796,25 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Parts box&nbsp;",
+          "title2": "<br><br><br>Parts box&nbsp;",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "If you are just starting out we can offer this rugged tool case loaded with parts.<br>anti diaphragms for a large range of sprayers (95%)<br>Nozzle filters, O rings for suction and pressure filters.<br>A selection of nozzles&nbsp;<br>We can tailor these boxes to your needs or we can supply our standard box that coverer most makes and models&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled-600x600-67.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title3": "Web Fonts",
+          "title3": "Full face browguard",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Full face visor with adjustable head band.<br>High quallity as used by many chemist lab.<br>Replacment visors can purchased separately",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -1823,6 +1827,130 @@
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "features3-2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cobra-600x600-57.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "The best tool for sprayers&nbsp;",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "High quality Knipex water pump pliers.<br>One hand press button adjustment. Plastic coated handles with slip guards for extra safety. Has 'no-nip' feature which prevents handles locking together and damaging users' hands. Hold pipes upto 70mm. Ideal for undoing filter nuts and hose tail nuts. Not to be confused with cheaper pliers &nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cobra-large-600x600-99.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "The big brother<br><br><span style=\"font-weight: normal;\">Known as \"big reds\" in our workshops, these are the big brother to the 300mm these 400mm have a massive </span><i>90mm</i><span style=\"font-weight: normal;\"> grip range.</span><br><span style=\"font-weight: normal;\">Ideal for adjusting seized actuating rods</span><br><span style=\"font-weight: normal;\">These can grip anything and are much better than a set of stilsons.&nbsp;</span>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tiger-grip-600x600-69.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "<span style=\"color: inherit; line-height: 1.2825;\">disposable Nitrile&nbsp;</span><br>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Raised textured surface for superior grip<br>7-mil thickness Superior Grip<br>Powder-free and Latex-free<br>Hi-Vis Orange color easily&nbsp;<br>These gloves are the strongest on the market. So strong you can pull them upto your elbows! You can even take them off for lunch and put the same pair back on after your butty!",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pressure-gauge-600x450-24.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "<br><br><br><br><br>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
