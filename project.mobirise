@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "ntg.html",
     "versionFirst": "3.5.1",
     "versionPublish": "3.10",
     "name": "Test Equipment",
@@ -1220,7 +1220,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47-600x398-36.png",
+              "src": "@PROJECT_PATH@/assets/images/20160928-162617-600x337-6.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
