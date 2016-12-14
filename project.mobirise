@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lunch box",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -62,7 +62,7 @@
             "showButtons": false,
             "showArrow": false
           },
-          "title": "<p><a href=\"page2.html\" class=\"text-info\" style=\"font-family: inherit; background-color: rgb(255, 255, 255);\"><br></a></p><br><p><a href=\"page2.html\" class=\"text-info\" style=\"font-family: inherit; background-color: rgb(255, 255, 255);\"><br></a></p><br><p><a href=\"page2.html\" class=\"text-info\" style=\"font-family: inherit; background-color: rgb(255, 255, 255);\">Custom Retro Lunch Boxes</a><br></p><p><br></p><p><a href=\"colour pick \" class=\"text-danger\"></a></p>",
+          "title": "<p><a href=\"page2.html\" class=\"text-info\" style=\"font-family: inherit; background-color: rgb(255, 255, 255);\">Custom Retro Lunch Boxes</a><br></p><p><br></p><p><a href=\"colour pick \" class=\"text-danger\"></a></p>",
           "text": "<br><span style=\"font-family: Roboto, Helvetica, Arial, sans-serif;\">My name is Benjamin and I am 6 years old. Me and my Dad searched the shops to find a lunch box, but all we could find was lunch bags that squashed my sandwiches or tiny boxes that I could not fit my banana in.&nbsp;</span><br><span style=\"font-family: Roboto, Helvetica, Arial, sans-serif;\">So &nbsp;Dad and me found these retro lunch boxes. Oh and google helped to spell this!<br></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
