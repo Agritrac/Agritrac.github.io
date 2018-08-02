@@ -2181,12 +2181,17 @@
               "active": true
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-a"
+          "_anchor": "image1-a",
+          "_styles": {
+            "DIV": {
+              "text-align": "right"
+            }
+          }
         },
         {
           "_name": "contacts1",
@@ -2366,7 +2371,7 @@
               "active": true
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "",
           "_tags": [
             "Theme"
           ],
@@ -2530,7 +2535,7 @@
               "active": true
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "",
           "_tags": [
             "Theme"
           ],
