@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "page7.html",
     "versionFirst": "3.5.1",
     "versionPublish": "4.5.4",
     "name": "Test Equipment",
@@ -552,12 +552,11 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled3-1400x280-18.png",
+              "src": "@PROJECT_PATH@/assets/images/savuntitled12-1400x280-82-1400x280.png",
               "width": 1400,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -913,12 +912,11 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled3-1400x280-18.png",
+              "src": "@PROJECT_PATH@/assets/images/savuntitled12-1400x280-83-1400x280.png",
               "width": 1400,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -1271,12 +1269,11 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled3-1400x280-18.png",
+              "src": "@PROJECT_PATH@/assets/images/savuntitled12-1400x280-84-1400x280.png",
               "width": 1400,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -1990,12 +1987,11 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled3-1400x280-18.png",
+              "src": "@PROJECT_PATH@/assets/images/savuntitled12-1400x280-85-1400x280.png",
               "width": 1400,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
