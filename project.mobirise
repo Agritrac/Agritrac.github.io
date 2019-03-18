@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ste.html",
+    "currentPage": "page8.html",
     "versionFirst": "3.5.1",
     "versionPublish": "4.5.4",
     "name": "Test Equipment",
@@ -21,12 +21,13 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": []
     },
     "scrollAnimation": "true",
     "favicon": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "uniqCompNum": 21,
+    "uniqCompNum": 31,
     "path": "@PROJECT_PATH@",
     "noImageResize": "",
     "google-analytics": "",
@@ -355,7 +356,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -366,7 +367,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -541,75 +542,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_name": "image2",
-          "_anchor": "image2-0",
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/savuntitled12-1400x280-82-1400x280.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffff00"
-            },
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts1-0",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#504a3d",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
-              "width": 128,
-              "active": true,
-              "link": "www.cropsprayerparts.com",
-              "alt": "",
-              "title": "Agritrac",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\">Agritrac</a><br><br></p>"
-        },
-        {
           "_name": "footer1",
           "_anchor": "footer1-0",
           "_params": {
@@ -715,7 +647,140 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "fullScreen": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/testing-box-1592x900.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "TESTING",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "At our test centre we can use our specialised equipment and our expertise to make sure your kit is in great working order. We have a variety of parts and replacements available for kits so that we're able to get you back testing as quickly as possible.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/open-gauge-and-tools-1592x900.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "CALIBRATION",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "We have personel who are trained by a UKAS certified tester, meaning not only are we able to have kits tested and parts replaced but we are also able to have your precision gauges calibrated to save you cost and time.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/test-boxes-1592x900.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Along with this we have our exceptional test kits available for purchase that have gone through rigourous in the field testing so they are up to any conditions. &nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-q"
+        },
+        {
+          "_name": "image2",
+          "_anchor": "image2-0",
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/savuntitled12-1400x280-82-1400x280.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffff00"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-0",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#504a3d",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
+              "width": 128,
+              "active": true,
+              "link": "www.cropsprayerparts.com",
+              "alt": "",
+              "title": "Agritrac",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\">Agritrac</a><br><br></p>"
         }
       ]
     },
@@ -726,7 +791,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -899,6 +964,70 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "fullScreen": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/testing-box-1592x900.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "TESTING",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "At our test centre we can use our specialised equipment and our expertise to make sure your kit is in great working order. We have a variety of parts and replacements available for kits so that we're able to get you back testing as quickly as possible.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/open-gauge-and-tools-1592x900.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "CALIBRATION",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "We have personel who are trained by a UKAS certified tester, meaning not only are we able to have kits tested and parts replaced but we are also able to have your precision gauges calibrated to save you cost and time.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/test-boxes-1592x900.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Along with this we have our exceptional test kits available for purchase that have gone through rigourous in the field testing so they are up to any conditions. &nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-r"
         },
         {
           "_name": "image2",
@@ -1075,7 +1204,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1086,7 +1215,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -1256,6 +1385,70 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "fullScreen": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/testing-box-1592x900.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "TESTING",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "At our test centre we can use our specialised equipment and our expertise to make sure your kit is in great working order. We have a variety of parts and replacements available for kits so that we're able to get you back testing as quickly as possible.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/open-gauge-and-tools-1592x900.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "CALIBRATION",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "We have personel who are trained by a UKAS certified tester, meaning not only are we able to have kits tested and parts replaced but we are also able to have your precision gauges calibrated to save you cost and time.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/test-boxes-1592x900.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Along with this we have our exceptional test kits available for purchase that have gone through rigourous in the field testing so they are up to any conditions. &nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-s"
         },
         {
           "_name": "image2",
@@ -1432,7 +1625,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1443,7 +1636,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -1976,6 +2169,70 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_params": {
+            "autoplay": false,
+            "fullScreen": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/testing-box-1592x900.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "TESTING",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "At our test centre we can use our specialised equipment and our expertise to make sure your kit is in great working order. We have a variety of parts and replacements available for kits so that we're able to get you back testing as quickly as possible.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/open-gauge-and-tools-1592x900.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "CALIBRATION",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "We have personel who are trained by a UKAS certified tester, meaning not only are we able to have kits tested and parts replaced but we are also able to have your precision gauges calibrated to save you cost and time.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/test-boxes-1592x900.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Along with this we have our exceptional test kits available for purchase that have gone through rigourous in the field testing so they are up to any conditions. &nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-t"
+        },
+        {
           "_name": "image2",
           "_anchor": "image2-0",
           "_params": {
@@ -2150,7 +2407,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -2158,7 +2415,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Master Test Gauge Video",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -2339,7 +2596,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-6"
         }
       ]
@@ -2348,7 +2605,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Mag Mount Pressure Gauge Video",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -2503,7 +2760,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-c"
         }
       ]
@@ -2512,7 +2769,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Flow Check",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -2667,8 +2924,218 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-f"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "Calibration service for all NSTS Gauges ",
+        "title": "Gauge Calibration Services",
+        "order": 2
+      },
+      "components": [
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffff00"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#504a3d",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
+              "width": 128,
+              "active": true,
+              "link": "www.cropsprayerparts.com",
+              "alt": "",
+              "title": "Agritrac",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"http://www.cropsprayerparts.com\" class=\"text-white\">Agritrac</a><br><br></p>",
+          "_anchor": "contacts1-l"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/agritrac-logo-353x128-26.png",
+              "height": 128,
+              "alt": "",
+              "link": "http://www.cropsprayerparts.com/",
+              "title": "Agritrac",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;Sprayer Testing Equipment</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"home.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mtg.html\">Master Test Guage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cts.html\">Catchment Tray System<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ntg.html\">Nozzle Test Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ste.html\">Sprayer Testing Essentials<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"nsts.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VIDEOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Master Test Gauge Box</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Mag Mount Pressure Gauge<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Flow Check<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-m"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "fullScreen": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/testing-box-1592x900.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "TESTING",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "At our test centre we can use our specialised equipment and our expertise to make sure your kit is stays in the best working order. We have a variety of parts and replacements available for kits so that we're able to get you back testing as quickly as possible.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/open-gauge-and-tools-1592x900.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "CALIBRATION",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "We have personel who are trained by a UKAS certified tester, meaning not only are we able to have kits tested and parts replaced but we are also able to have your precision gauges calibrated to save you cost and time.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/test-boxes-1592x900.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Along with this we have our exceptional test kits available for purchase that have gone through rigourous 'in the field' testing so they are up to any conditions. &nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-p",
+          "_styles": {
+            "P": {
+              "color": "#f97352"
+            }
+          }
         }
       ]
     }
