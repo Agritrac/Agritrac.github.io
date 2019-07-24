@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "home.html",
     "versionFirst": "3.5.1",
-    "versionPublish": "4.5.4",
+    "versionPublish": "4.10.4",
     "name": "Test Equipment",
     "theme": {
       "name": "mobirise3",
@@ -29,11 +29,12 @@
     "scrollAnimation": "true",
     "favicon": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "uniqCompNum": 79,
+    "uniqCompNum": 85,
     "path": "@PROJECT_PATH@",
     "noImageResize": "",
     "google-analytics": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "home.html": {
@@ -368,7 +369,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -541,6 +542,34 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://youtu.be/Om4csbWdF70",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_styles": {
+            "DIV": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "image1-27"
         },
         {
           "_params": {
@@ -1238,7 +1267,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1411,6 +1440,29 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://youtu.be/Ng2jBvZVMv0",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-29"
         },
         {
           "_params": {
@@ -2108,7 +2160,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2278,6 +2330,29 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://youtu.be/4oRZ3nOr0xM",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-28"
         },
         {
           "_params": {
@@ -3076,13 +3151,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#ffff00"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffff00"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffff00",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-family": "'Raleway', sans-serif"
             },
@@ -3105,7 +3180,7 @@
               "background": "#504a3d"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffff00",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3350,7 +3425,12 @@
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-g"
+          "_anchor": "image1-g",
+          "_customHTML": "<section class=\"mbr-section mbr-section-nopadding mbr-figure--caption-outside-bottom mbr-after-navbar\" data-rv-view=\"336\">\n    <div class=\"mbr-figure\">\n        <div><iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/Ng2jBvZVMv0?rel=0&amp;amp;showinfo=0&amp;autoplay=1&amp;loop=1&amp;playlist=Ng2jBvZVMv0\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n        <div class=\"mbr-figure-caption mbr-figure-caption-over\">\n            <div class=\"container mbr-editable-content\" code-editable-id=\"75\"></div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_name": "contacts1",
@@ -3493,7 +3573,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -3557,7 +3637,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/testing-box-1400x791.jpg",
+              "src": "@PROJECT_PATH@/assets/images/three-boxes-on-desk-1400x1400.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -4380,7 +4460,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Photo Gallery",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
