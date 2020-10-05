@@ -253,6 +253,9 @@
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
+            },
+            ".mbr-article": {
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -284,7 +287,7 @@
           },
           "title": "Enter our design competition",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;We are giving away one of our Custom Retro lunch boxes, this compeitition is open to all &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;pupils of Cotford St Luke school.",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We are giving away one of our Custom Retro lunch boxes.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">ENTER HERE</a>"
         },
         {
