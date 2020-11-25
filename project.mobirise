@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Benjamin's Lunch box",
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -238,7 +238,7 @@
           },
           "title": "How do you get one of my lunch boxes",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>At the moment I am not selling online, but i am taking payment when I deliver your lunch box.</p>",
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;At the moment I am not selling online, but i am taking payment when I deliver your lunch box.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Pick a colour</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"mailto:benjamin@coollunchboxes.co.uk\" data-toolbar=\"-mbrBtnMove\">E mail your design and order</a>",
           "_tags": [
             "Theme"
@@ -287,7 +287,7 @@
           },
           "title": "Enter our design competition",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We are giving away one of our Custom Retro lunch boxes.",
+          "text": "&nbsp; We are giving away one of our Custom Retro lunch boxes to a lucky pupil of Cotford St Luke school.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">ENTER HERE</a>"
         },
         {
